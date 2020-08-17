@@ -1,1 +1,3 @@
 Hello, I won't leave till I learn about git
+This is the next step towards git
+Getting confused but practicing will resolve the issue
